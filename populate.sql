@@ -1,10 +1,3 @@
-/*
-Description:  populate the Student Circuit project tables
-Author: Winsum Chang
-Version: 1.0
-Date: Apr 24, 2019
-*/
-
 /*populate student table*/
 
 insert into Student (StudentID, Fname, Lname, ChurchName, gender, grade) values (1001, 'Samuel', 'Disney', 'Christ Church', 'M', 6);
